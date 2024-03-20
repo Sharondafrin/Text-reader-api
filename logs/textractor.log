@@ -1,1 +1,341 @@
-
+Textractor LogINFO: 2023-07-27 13:56:02,327 - Service Restarted!
+INFO: 2023-07-27 13:56:02,357 - Service Restarted!
+INFO: 2023-07-27 13:56:16,083 - Transcript generated: {'label-text': 'Beløb ekskl.moms ….......….…..:\n', 'value': 2550.45}
+INFO: 2023-07-31 08:55:39,734 - Service Restarted!
+INFO: 2023-07-31 08:55:39,744 - Service Restarted!
+INFO: 2023-07-31 12:11:49,091 - Service Restarted!
+INFO: 2023-07-31 12:11:49,095 - Service Restarted!
+ERROR: 2023-07-31 12:19:06,610 - Error occurred: not enough values to unpack (expected 5, got 3)
+INFO: 2023-07-31 12:24:06,092 - Transcript generated: {'label-text': 'Faktura 80277\n', 'value': 'Faktura 80277\n'}
+INFO: 2023-07-31 12:25:11,070 - Transcript generated: {'label-text': 'Betaling senest:\n', 'value': '2023-04-17'}
+INFO: 2023-07-31 12:25:47,089 - Transcript generated: {'label-text': 'Moms 25%\n', 'value': 63761.0}
+INFO: 2023-08-01 08:14:17,246 - Transcript generated: {'value': '€342,00\n'}
+INFO: 2023-08-01 11:11:55,078 - Transcript generated: {'value': '-DK34039038\n'}
+ERROR: 2023-08-01 15:58:22,887 - Error occurred: (1, 'Error opening data file /usr/share/tesseract-ocr/5/tessdata/da.traineddata Please make sure the TESSDATA_PREFIX environment variable is set to your "tessdata" directory. Failed loading language \'da\' Tesseract couldn\'t load any languages! Could not initialize tesseract.')
+INFO: 2023-08-01 15:58:32,093 - Transcript generated: {'value': '"-DK34039038\n'}
+INFO: 2023-08-01 16:01:19,468 - Transcript generated: {'value': '"-DK34039038\n'}
+INFO: 2023-08-01 16:24:13,938 - Transcript generated: {'value': '45215030\n'}
+INFO: 2023-08-01 16:26:47,899 - Transcript generated: {'value': '45215030\n'}
+INFO: 2023-08-01 16:27:27,060 - Transcript generated: {'value': '45215030\n'}
+INFO: 2023-08-01 16:28:02,232 - Transcript generated: {'value': '2022-04-28'}
+INFO: 2023-08-01 16:28:08,711 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-01 16:28:39,295 - Transcript generated: {'value': '2022-04-23'}
+INFO: 2023-08-01 16:28:46,311 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-01 16:29:01,907 - Transcript generated: {'value': 3922.0}
+INFO: 2023-08-01 16:29:33,249 - Transcript generated: {'value': 3922.0}
+ERROR: 2023-08-01 16:30:03,644 - Failed Amount to Float: list index out of range
+INFO: 2023-08-01 16:30:03,644 - Transcript generated: {'value': None}
+INFO: 2023-08-01 16:30:14,858 - Transcript generated: {'value': 3137.6}
+INFO: 2023-08-01 16:30:25,707 - Transcript generated: {'value': 78440.0}
+INFO: 2023-08-01 16:30:31,196 - Transcript generated: {'value': 2000.0}
+INFO: 2023-08-01 16:31:26,635 - Transcript generated: {'value': ''}
+INFO: 2023-08-01 16:31:39,151 - Transcript generated: {'value': '3,922.00\n'}
+INFO: 2023-08-01 16:35:59,928 - Transcript generated: {'value': 3137.6}
+INFO: 2023-08-01 16:36:50,120 - Transcript generated: {'value': '3,137.60\n'}
+ERROR: 2023-08-01 16:38:32,361 - Failed Amount to Float: list index out of range
+INFO: 2023-08-01 16:38:32,361 - Transcript generated: {'value': None}
+INFO: 2023-08-01 16:38:57,477 - Transcript generated: {'value': 'ATHENS\n'}
+INFO: 2023-08-01 17:12:52,818 - Transcript generated: {'value': '2022-04-23'}
+INFO: 2023-08-01 17:13:42,495 - Transcript generated: {'value': '45215030\n'}
+INFO: 2023-08-01 17:13:53,767 - Transcript generated: {'value': '45215030\n'}
+INFO: 2023-08-01 17:15:02,025 - Transcript generated: {'value': 78440.0}
+INFO: 2023-08-01 17:15:02,033 - Transcript generated: {'value': 78440.0}
+INFO: 2023-08-01 17:16:00,527 - Transcript generated: {'value': '3,137.60\n'}
+INFO: 2023-08-02 06:42:55,237 - Transcript generated: {'value': 3137.6}
+INFO: 2023-08-02 06:42:55,256 - Transcript generated: {'value': 3137.6}
+INFO: 2023-08-02 06:43:01,742 - Transcript generated: {'value': 39922.0}
+INFO: 2023-08-02 06:43:01,771 - Transcript generated: {'value': 39922.0}
+INFO: 2023-08-02 06:43:21,313 - Transcript generated: {'value': 78440.0}
+INFO: 2023-08-02 06:43:21,314 - Transcript generated: {'value': 78440.0}
+INFO: 2023-08-02 06:43:55,858 - Transcript generated: {'value': 2000.0}
+INFO: 2023-08-02 06:43:55,859 - Transcript generated: {'value': 2000.0}
+INFO: 2023-08-02 06:44:08,706 - Transcript generated: {'value': '45215030\n'}
+INFO: 2023-08-02 06:52:35,877 - Transcript generated: {'value': '2022-04-23'}
+INFO: 2023-08-02 07:00:47,564 - Transcript generated: {'value': 3922.0}
+INFO: 2023-08-02 07:00:56,499 - Transcript generated: {'value': 78440.0}
+INFO: 2023-08-02 07:01:02,431 - Transcript generated: {'value': 2000.0}
+INFO: 2023-08-02 07:01:11,995 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-02 07:01:17,023 - Transcript generated: {'value': '2022-04-28'}
+INFO: 2023-08-02 07:11:32,098 - Transcript generated: {'value': '45215030\n'}
+INFO: 2023-08-02 07:11:39,965 - Transcript generated: {'value': '2022-04-28'}
+INFO: 2023-08-02 07:13:03,108 - Transcript generated: {'value': '2022-04-28'}
+INFO: 2023-08-02 07:15:28,764 - Transcript generated: {'value': '2022-04-28'}
+INFO: 2023-08-02 07:22:30,411 - Transcript generated: {'value': '2022-04-23'}
+INFO: 2023-08-02 07:22:37,931 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-02 07:22:51,598 - Transcript generated: {'value': '2022-04-28'}
+INFO: 2023-08-02 07:22:59,884 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-02 07:23:16,385 - Transcript generated: {'value': '2022-04-23'}
+INFO: 2023-08-02 07:23:53,876 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-02 07:27:49,927 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-02 07:27:58,585 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-02 07:28:05,128 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-02 07:28:10,135 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-02 07:52:45,389 - Transcript generated: {'value': ''}
+INFO: 2023-08-02 07:53:27,264 - Transcript generated: {'value': '2022-04-23'}
+INFO: 2023-08-02 07:53:31,258 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-02 07:53:35,489 - Transcript generated: {'value': '2022-04-28'}
+INFO: 2023-08-02 07:53:42,928 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-02 07:53:50,755 - Transcript generated: {'value': 2000.0}
+INFO: 2023-08-02 07:53:55,188 - Transcript generated: {'value': ''}
+INFO: 2023-08-02 07:54:00,383 - Transcript generated: {'value': '76319719\n'}
+INFO: 2023-08-02 07:54:05,981 - Transcript generated: {'value': ''}
+INFO: 2023-08-02 07:54:13,702 - Transcript generated: {'value': 'SH11471654\n'}
+INFO: 2023-08-02 07:54:59,286 - Transcript generated: {'value': '401276\n'}
+INFO: 2023-08-04 11:49:21,267 - Transcript generated: {'value': 3922.0}
+INFO: 2023-08-04 11:49:32,846 - Transcript generated: {'label-text': 'Commission:\n', 'value': 78440.0}
+INFO: 2023-08-04 11:50:06,157 - Transcript generated: {'label-text': 'Commission:\n', 'value': 78440.0}
+INFO: 2023-08-04 11:50:31,897 - Transcript generated: {'value': 78440.0}
+INFO: 2023-08-04 11:52:38,504 - Transcript generated: {'value': 78440.0}
+INFO: 2023-08-04 11:53:02,308 - Transcript generated: {'label-text': 'Commission:\n', 'value': 78440.0}
+INFO: 2023-08-04 12:17:23,827 - Transcript generated: {'label-text': 'Commission:\n', 'value': '784.40\n'}
+INFO: 2023-08-04 12:17:45,750 - Transcript generated: {'value': '784.40\n'}
+INFO: 2023-08-04 12:18:18,345 - Transcript generated: {'label-text': 'Commission:\n', 'value': 78440.0}
+INFO: 2023-08-04 12:18:42,306 - Transcript generated: {'value': '784.40\n'}
+INFO: 2023-08-04 12:18:58,056 - Transcript generated: {'label-text': 'Commission:\n', 'value': '784.40\n'}
+INFO: 2023-08-04 12:20:26,184 - Transcript generated: {'label-text': 'Commission:\n', 'value': '784.40\n'}
+INFO: 2023-08-04 12:37:20,179 - Transcript generated: {'label-text': '| alt KR inkl. moms\n', 'value': 4974.41}
+INFO: 2023-08-04 12:37:33,313 - Transcript generated: {'label-text': '25% moms\n', 'value': 99488.0}
+INFO: 2023-08-04 12:48:22,755 - Transcript generated: {'label-text': 'Commission:\n', 'value': 78440.0}
+INFO: 2023-08-04 12:48:37,441 - Transcript generated: {'label-text': 'Total to Pay:\n', 'value': 3137.6}
+INFO: 2023-08-04 12:49:04,772 - Transcript generated: {'label-text': 'Source Reference ID\n', 'value': 'SH11471654\n'}
+INFO: 2023-08-04 12:49:22,358 - Transcript generated: {'label-text': 'Syosset! Wien\n\nArrival Date:\n', 'value': '2022-04-28'}
+INFO: 2023-08-04 12:49:36,167 - Transcript generated: {'label-text': 'Payment deadline\n', 'value': ''}
+INFO: 2023-08-04 12:50:03,699 - Transcript generated: {'label-text': 'Payment deadline\n', 'value': '2022-04-23'}
+INFO: 2023-08-04 12:50:19,686 - Transcript generated: {'value': '2022-04-23'}
+INFO: 2023-08-07 11:56:44,399 - Transcript generated: {'label-text': 'CVR no.:\n', 'value': 'DK17237977\n'}
+INFO: 2023-08-07 11:56:57,772 - Transcript generated: {'label-text': 'CVR no.:\n', 'value': 'DK17237977\n'}
+INFO: 2023-08-07 11:57:19,975 - Transcript generated: {'label-text': 'Bank:\n', 'value': '2217 - 5368 490 999\n'}
+INFO: 2023-08-07 12:02:18,155 - Transcript generated: {'label-text': 'Kortbetalingsoplysninger\n\nDato: 22.04.2023 Tidspunkt: 14:51:05 Kort: ****2467 PAN seq.: 00\nForetrukket navn: Dankort Korttype: dankort betalingsmade: dankort\nPayment variant: dankort Indtastningstilstand: Kontaktlds chip CVM res.:\nPIN-KODE BEKRA-FTET AID: A0000001214711 MID: 945207 TID:\nP400Plus-275419370 PTID: 60321581 Auth. code: 145119 Tender:\n560j001682167865008 Reference: 2e1e3f156be54f04857f5159\n793648d-2237926161 Type: VARER_TJENESTER | alt: DKK 658,00\nGodkendt Gem din kvittering\n', 'value': 'Kortbetalingsoplysninger\n\nDato: 22.04.2023 Tidspunkt: 14:51:05 Kort: ****2467 PAN seq.: 00\nForetrukket navn: Dankort Korttype: dankort betalingsmade: dankort\nPayment variant: dankort Indtastningstilstand: Kontaktlds chip CVM res.:\nPIN-KODE BEKRA-FTET AID: A0000001214711 MID: 945207 TID:\nP400Plus-275419370 PTID: 60321581 Auth. code: 145119 Tender:\n560j001682167865008 Reference: 2e1e3f156be54f04857f5159\n793648d-2237926161 Type: VARER_TJENESTER | alt: DKK 658,00\nGodkendt Gem din kvittering\n'}
+INFO: 2023-08-07 12:02:32,491 - Transcript generated: {'label-text': 'DadllkK. Z2Z21/ - JO00 49U FJI7\n', 'value': 'DadllkK. Z2Z21/ - JO00 49U FJI7\n'}
+INFO: 2023-08-07 12:02:45,046 - Transcript generated: {'label-text': 'Bank: 2217 - 5368 490 999\n', 'value': 'Bank: 2217 - 5368 490 999\n'}
+INFO: 2023-08-07 12:59:52,821 - Transcript generated: {'label-text': 'Ala Mohamed\nBataljonen 231\n4100 Ringsted\n'}
+INFO: 2023-08-07 12:59:56,731 - Transcript generated: {'label-text': 'Ala Mohamed\nBataljonen 231\n4100 Ringsted\n+4531517010\nalahhx@gmail.com\n', 'value': 'Ala Mohamed\nBataljonen 231\n4100 Ringsted\n+4531517010\nalahhx@gmail.com\n'}
+INFO: 2023-08-07 13:00:02,866 - Transcript generated: {'label-text': 'Kvittering\nOrdrenummer\nDato/Tid\nSeelger\n\nButik\n', 'value': 'Kvittering\nOrdrenummer\nDato/Tid\nSeelger\n\nButik\n'}
+INFO: 2023-08-07 13:04:44,246 - Transcript generated: {'label-text': 'Ala Mohamed\nBataljonen 231\n4100 Ringsted\n+4531517010\nalahhx@gmail.com\n', 'value': 'Ala Mohamed\nBataljonen 231\n4100 Ringsted\n+4531517010\nalahhx@gmail.com\n'}
+INFO: 2023-08-07 13:04:59,882 - Transcript generated: {'label-text': 'Take now\nProdukt\n195927\n493007\n', 'value': 'Take now\nProdukt\n195927\n493007\n'}
+INFO: 2023-08-07 13:05:07,938 - Transcript generated: {'label-text': '22nd April 2023\n\nBeskrivelse\n\nElectrolux EKF7700\n\nPhilips OneBlade ansigtstrimmer QP2721/20\n\n', 'value': '22nd April 2023\n\nBeskrivelse\n\nElectrolux EKF7700\n\nPhilips OneBlade ansigtstrimmer QP2721/20\n\n'}
+INFO: 2023-08-07 13:18:37,600 - Transcript generated: {'label-text': 'Kvittering\n\nOrdrenummer 2237\n\nDato/Tid 22.0.\nSeelger mati\nButik 3027\n\nLeveringsnote\nTelefon: +453151701|\n\nDrie Dahat\n', 'value': 'Kvittering\n\nOrdrenummer 2237\n\nDato/Tid 22.0.\nSeelger mati\nButik 3027\n\nLeveringsnote\nTelefon: +453151701|\n\nDrie Dahat\n'}
+INFO: 2023-08-07 13:18:59,919 - Transcript generated: {'label-text': '99nd Anril 9NIV2\n', 'value': '99nd Anril 9NIV2\n'}
+INFO: 2023-08-07 13:20:43,821 - Transcript generated: {'label-text': 'IInd Anril 9N9N2Q\n', 'value': 'IInd Anril 9N9N2Q\n'}
+INFO: 2023-08-07 13:37:54,246 - Transcript generated: {'label-text': 'Kvittering\n', 'value': 'Kvittering\n'}
+INFO: 2023-08-07 13:40:12,585 - Transcript generated: {'label-text': '', 'value': ''}
+INFO: 2023-08-07 13:40:23,644 - Transcript generated: {'label-text': 'Dato/Tid 22.04.2023\n', 'value': 'Dato/Tid 22.04.2023\n'}
+INFO: 2023-08-07 13:40:40,511 - Transcript generated: {'label-text': 'Dato/ lid 22.04.2023\n', 'value': 'Dato/ lid 22.04.2023\n'}
+INFO: 2023-08-07 13:56:41,660 - Transcript generated: {'value': 'Ala Mohamed\nBataljonen 231\n4100 Ringsted\n+4531517010\nalahhx@gmail.com\n'}
+ERROR: 2023-08-07 14:04:50,143 - An error occurred during: Unknown string format: 2023/Tidspunkt/14
+INFO: 2023-08-07 14:04:50,143 - Transcript generated: {'label-text': 'Kortbetalingsoplysninger\n\nDato: 22.04.2023 Tidspunkt: 14:51:05 Kort: ****2467 PAN seq.:\nForetrukket navn: Dankort Korttype: dankort betalingsmade: dz\nPayment variant: dankort Indtastningstilstand: Kontaktlos chip\nPIN-KODE BEKRA-FTET AID: A0000001214711 MID: 945207 TIL\nP400Plus-275419370 PTID: 60321581 Auth. code: 145119 Ten\n560j001682167865008 Reference: 2e1e3f156be54f04857f515\n793648d-2237926161 Type: VARER_TJENESTER | alt: DKK 658,\nGodkendt Gem din kvittering\n', 'value': ''}
+INFO: 2023-08-07 14:04:55,748 - Transcript generated: {'label-text': 'Moms\n25%\nSum\n', 'value': ''}
+INFO: 2023-08-07 14:05:06,104 - Transcript generated: {'label-text': '22.04.202°\n', 'value': '202-04-22'}
+INFO: 2023-08-08 11:18:08,774 - Transcript generated: {'label-text': 'Dato: 22.04.2023 Tidsf\nForetrukket navn: Dan|\nPayment variant: dank:\nPIN-KODE BEKRAEFTET\n', 'value': 'Dato: 22.04.2023 Tidsf\nForetrukket navn: Dan|\nPayment variant: dank:\nPIN-KODE BEKRAEFTET\n'}
+INFO: 2023-08-08 11:19:47,926 - Transcript generated: {'label-text': '', 'value': ''}
+INFO: 2023-08-08 11:19:57,085 - Transcript generated: {'label-text': 'Maw. 22.U.2UL0\n', 'value': 'Maw. 22.U.2UL0\n'}
+INFO: 2023-08-08 11:20:25,133 - Transcript generated: {'label-text': 'Dato: 22.04.2023\n', 'value': 'Dato: 22.04.2023\n'}
+INFO: 2023-08-08 11:20:40,693 - Transcript generated: {'label-text': '', 'value': ''}
+INFO: 2023-08-08 11:21:07,331 - Transcript generated: {'label-text': '', 'value': ''}
+INFO: 2023-08-08 11:21:48,829 - Transcript generated: {'label-text': 'Kortbetalingsoplysninger\n', 'value': 'Kortbetalingsoplysninger\nDato: 22.04.2023 Tidspunkt: 14:51:05 K\n'}
+INFO: 2023-08-08 11:22:12,889 - Transcript generated: {'label-text': '', 'value': '+ 22.04.2023\n'}
+INFO: 2023-08-08 11:22:27,763 - Transcript generated: {'label-text': 'Foretrukket navn:\n', 'value': 'matiasmo\n'}
+INFO: 2023-08-08 11:22:40,702 - Transcript generated: {'label-text': 'Take now 22nd April 2023\n', 'value': 'Take now 22nd April 2023\n'}
+INFO: 2023-08-08 11:23:27,285 - Transcript generated: {'label-text': 'Dato/Tid\n', 'value': '22.04.2023\n'}
+INFO: 2023-08-08 11:26:06,848 - Transcript generated: {'label-text': 'Ordrenummer\n', 'value': '2237926161\n'}
+INFO: 2023-08-08 11:27:05,364 - Transcript generated: {'label-text': 'Kvittering\n', 'value': '2237926161\n'}
+INFO: 2023-08-08 11:38:34,117 - Transcript generated: {'label-text': 'ORDREREFERENCE:\n', 'value': 'ORDREREFERENCE:\n'}
+INFO: 2023-08-08 12:35:51,997 - Transcript generated: {'label-text': 'LVS URIS IAUTITS\n', 'value': 'LVS URIS IAUTITS\n'}
+INFO: 2023-08-08 12:35:57,031 - Transcript generated: {'label-text': 'TAWA\n', 'value': 'TAWA\n'}
+INFO: 2023-08-10 02:08:19,160 - Service Restarted!
+INFO: 2023-08-10 02:08:19,220 - Service Restarted!
+INFO: 2023-08-10 07:47:45,302 - Transcript generated: {'label-text': '(2 Stk.\n', 'value': '(2 Stk.\n'}
+INFO: 2023-08-11 08:10:20,358 - Service Restarted!
+INFO: 2023-08-11 08:10:20,358 - Service Restarted!
+ERROR: 2023-08-14 08:25:27,668 - Failed Amount to Float: could not convert string to float: '3947.77|\n'
+INFO: 2023-08-14 08:25:27,670 - Transcript generated: {'label-text': '3.947,77|\n', 'value': None}
+INFO: 2023-08-14 08:25:48,202 - Transcript generated: {'value': 3947.77}
+INFO: 2023-08-14 11:16:05,846 - Transcript generated: {'label-text': 'Ordre\n', 'value': '122075\n'}
+INFO: 2023-08-16 07:46:20,784 - Transcript generated: {'label-text': 'SWIFT BIC:\n', 'value': 'ESSEDKKK\n'}
+INFO: 2023-08-16 08:03:35,778 - Transcript generated: {'label-text': 'Account number:\n', 'value': '00 12006640\n'}
+INFO: 2023-08-16 08:05:07,662 - Transcript generated: {'label-text': '', 'value': 'DK 32303277\n'}
+INFO: 2023-08-16 08:05:42,073 - Transcript generated: {'label-text': 'VAT No\n', 'value': 'DK 32303277\n'}
+INFO: 2023-08-16 12:18:41,720 - Transcript generated: {'value': '2018-06-15'}
+INFO: 2023-08-16 12:19:58,690 - Transcript generated: {'value': '2023-08-19'}
+INFO: 2023-08-16 12:20:52,918 - Transcript generated: {'value': '2019-03-16'}
+INFO: 2023-08-16 12:20:59,855 - Transcript generated: {'value': '2023-04-03'}
+INFO: 2023-08-16 12:21:08,719 - Transcript generated: {'value': '2019-03-20'}
+INFO: 2023-08-16 12:21:29,153 - Transcript generated: {'value': '2019-03-16'}
+INFO: 2023-08-16 12:21:58,307 - Transcript generated: {'value': '2022-01-05'}
+INFO: 2023-08-16 13:43:24,071 - Transcript generated: {'value': '2016-08-14'}
+INFO: 2023-08-17 10:36:29,237 - Transcript generated: {'value': '2023-08-25'}
+INFO: 2023-08-17 10:37:19,734 - Transcript generated: {'value': '2023-08-25'}
+INFO: 2023-08-17 10:38:03,942 - Transcript generated: {'label-text': 'forfald\n', 'value': '2023-08-25'}
+INFO: 2023-08-17 10:43:12,404 - Transcript generated: {'label-text': 'Regnr.:\n', 'value': ''}
+INFO: 2023-08-17 10:43:31,033 - Transcript generated: {'label-text': 'Regnr.\n', 'value': ''}
+INFO: 2023-08-18 09:34:54,575 - Transcript generated: {'value': 'Ne\n\n30329929\n'}
+INFO: 2023-08-18 09:34:59,757 - Transcript generated: {'value': 'Sendes til:\n'}
+INFO: 2023-08-18 13:27:36,270 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 13:27:41,116 - Transcript generated: {'value': 'et Daglige\n\nee er pee\n'}
+INFO: 2023-08-18 13:28:46,137 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 13:30:08,486 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 13:34:23,646 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 13:36:55,344 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 13:40:10,589 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 13:41:33,431 - Transcript generated: {'value': 'er ee ee\n'}
+INFO: 2023-08-18 13:43:09,864 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 13:45:30,945 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 13:46:47,970 - Transcript generated: {'value': 'SN\n'}
+INFO: 2023-08-18 13:48:41,835 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:02:17,959 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:04:41,891 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:06:01,411 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:06:07,705 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:07:32,000 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:09:08,026 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:10:01,045 - Transcript generated: {}
+INFO: 2023-08-18 14:10:13,961 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:10:55,284 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:12:03,656 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:12:52,957 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:14:45,449 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:15:18,611 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:16:31,517 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:18:22,381 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:19:52,340 - Transcript generated: {'value': 'as SAUCE. AE a\n\nCVR.Nr. 209\n'}
+INFO: 2023-08-18 14:20:07,850 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:20:48,069 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:21:30,386 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:21:36,443 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:21:41,532 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:21:46,628 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:21:51,081 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:40:19,218 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:40:28,476 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:40:35,050 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:41:57,363 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:43:54,814 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:48:06,891 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:48:15,265 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:49:04,103 - Transcript generated: {'value': ''}
+INFO: 2023-08-18 14:51:19,332 - Transcript generated: {'value': 'Ordre: 6392, 12/08/2016\n'}
+INFO: 2023-08-18 14:53:44,217 - Transcript generated: {'label-text': '', 'value': 'Betalingsmetode:\n'}
+INFO: 2023-08-18 14:53:51,550 - Transcript generated: {'label-text': '', 'value': 'CVR.Nr. 20909609\n\nCa ee — ve |\n'}
+INFO: 2023-08-18 14:54:05,004 - Transcript generated: {'label-text': '', 'value': 'Ejby Industrivej 30.\n'}
+INFO: 2023-08-18 14:55:07,745 - Transcript generated: {'value': 'Ordre:6392, 12/08/2016\n'}
+ERROR: 2023-08-18 15:01:06,059 - Failed Amount to Float: could not convert string to float: 'Jan17..2021\n'
+INFO: 2023-08-18 15:01:06,059 - Transcript generated: {'label-text': '', 'value': None}
+INFO: 2023-08-21 10:08:07,745 - Transcript generated: {'label-text': 'Forfaldsdato\n', 'value': '2019-11-23'}
+INFO: 2023-08-21 13:37:51,286 - Service Restarted!
+INFO: 2023-08-21 13:37:51,286 - Service Restarted!
+INFO: 2023-08-21 13:39:26,499 - Transcript generated: {'value': 1738.0, 'label-text': 'Issuing date:'}
+ERROR: 2023-08-21 13:40:26,057 - Failed Amount to Float: could not convert string to float: '12/04/2022'
+INFO: 2023-08-21 13:40:26,163 - Transcript generated: {'value': None, 'label-text': 'Issuing date:'}
+INFO: 2023-08-21 13:40:56,099 - Transcript generated: {'value': '2022-04-12', 'label-text': 'Issuing date:'}
+ERROR: 2023-08-22 08:46:32,123 - An error occurred during: 'list' object has no attribute 'split'
+INFO: 2023-08-22 08:46:32,124 - Transcript generated: {'label-text': 'Final Payment Due Date:', 'value': '2020-11-26'}
+ERROR: 2023-08-22 08:47:49,996 - Failed Amount to Float: could not convert string to float: '€342.00'
+INFO: 2023-08-22 08:47:49,997 - Transcript generated: {'label-text': '—', 'value': None}
+ERROR: 2023-08-22 08:48:10,265 - Failed Amount to Float: could not convert string to float: '€342.00'
+INFO: 2023-08-22 08:48:10,265 - Transcript generated: {'label-text': '—', 'value': None}
+INFO: 2023-08-22 08:48:45,624 - Transcript generated: {'label-text': 'Be', 'value': 'aad'}
+INFO: 2023-08-22 08:49:53,442 - Transcript generated: {'label-text': 'Swift:', 'value': 'SHASNL2X'}
+ERROR: 2023-08-22 13:00:23,739 - Failed Amount to Float: could not convert string to float: '€342.00'
+INFO: 2023-08-22 13:00:23,741 - Transcript generated: {'label-text': '—', 'value': None}
+ERROR: 2023-08-22 13:02:32,453 - Failed Amount to Float: could not convert string to float: '€342.00'
+INFO: 2023-08-22 13:02:32,453 - Transcript generated: {'label-text': '—', 'value': None}
+ERROR: 2023-08-22 13:06:52,709 - Failed Amount to Float: could not convert string to float: 'Saaaatictae’.load'
+INFO: 2023-08-22 13:06:52,709 - Transcript generated: {'label-text': '—', 'value': None}
+ERROR: 2023-08-22 13:11:59,049 - not enough values to unpack (expected 3, got 1)
+ERROR: 2023-08-22 13:11:59,050 - Failed! String to datetime: time data '' does not match format '%d/%m/%y'
+ERROR: 2023-08-22 13:11:59,050 - datetime to string failed: 'NoneType' object has no attribute 'day'
+INFO: 2023-08-22 13:11:59,152 - Transcript generated: {'value': '', 'label-text': 'Net Total'}
+ERROR: 2023-08-22 13:12:15,059 - not enough values to unpack (expected 3, got 1)
+ERROR: 2023-08-22 13:12:15,064 - Failed! String to datetime: time data '' does not match format '%d/%m/%y'
+ERROR: 2023-08-22 13:12:15,064 - datetime to string failed: 'NoneType' object has no attribute 'day'
+INFO: 2023-08-22 13:12:15,166 - Transcript generated: {'value': '', 'label-text': 'Net Total'}
+ERROR: 2023-08-22 13:12:30,461 - Failed Amount to Float: could not convert string to float: '€1856.20'
+INFO: 2023-08-22 13:12:30,564 - Transcript generated: {'value': None, 'label-text': 'Net Total'}
+INFO: 2023-08-22 13:18:32,283 - Service Restarted!
+INFO: 2023-08-22 13:18:32,285 - Service Restarted!
+INFO: 2023-08-22 13:18:42,332 - Transcript generated: {'value': 1856.2, 'label-text': 'Net Total'}
+ERROR: 2023-08-22 13:21:36,451 - An error occurred during: 'list' object has no attribute 'split'
+INFO: 2023-08-22 13:21:36,609 - Transcript generated: {'value': '2019-07-16', 'label-text': 'Net Total'}
+ERROR: 2023-08-22 13:24:10,576 - An error occurred during: 'list' object has no attribute 'split'
+INFO: 2023-08-22 13:24:10,744 - Transcript generated: {'value': '2019-07-16', 'label-text': 'Net Total'}
+INFO: 2023-08-22 14:09:37,446 - Transcript generated: {'label-text': 'Sort Code:', 'value': '20-88-13'}
+INFO: 2023-08-23 09:40:27,222 - Transcript generated: {'value': '2016-08-14'}
+INFO: 2023-08-28 09:29:44,374 - Transcript generated: {'label-text': 'KREDITNOTA', 'value': '1050510'}
+INFO: 2023-08-28 09:31:05,250 - Transcript generated: {'label-text': 'Total', 'value': 3106.0}
+INFO: 2023-08-28 09:36:06,434 - Transcript generated: {'value': 3106.0}
+INFO: 2023-08-29 09:33:35,825 - Service Restarted!
+INFO: 2023-08-29 09:33:35,856 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3034
+ * Running on http://192.168.1.5:3034
+INFO: 2023-08-29 09:33:35,856 - [33mPress CTRL+C to quit[0m
+INFO: 2023-08-29 09:33:35,856 -  * Restarting with stat
+INFO: 2023-08-29 09:33:37,640 - Service Restarted!
+WARNING: 2023-08-29 09:33:37,656 -  * Debugger is active!
+INFO: 2023-08-29 09:33:37,671 -  * Debugger PIN: 913-208-999
+ERROR: 2023-08-29 09:34:08,025 - Error occurred: /usr/bin/tesseract is not installed or it's not in your PATH. See README file for more information.
+INFO: 2023-08-29 09:34:08,027 - 127.0.0.1 - - [29/Aug/2023 09:34:08] "POST /transcript HTTP/1.1" 200 -
+ERROR: 2023-08-29 09:34:21,528 - Error occurred: /usr/bin/tesseract is not installed or it's not in your PATH. See README file for more information.
+INFO: 2023-08-29 09:34:21,528 - 127.0.0.1 - - [29/Aug/2023 09:34:21] "POST /transcript HTTP/1.1" 200 -
+ERROR: 2023-08-29 09:34:21,945 - Error occurred: /usr/bin/tesseract is not installed or it's not in your PATH. See README file for more information.
+INFO: 2023-08-29 09:34:21,951 - 127.0.0.1 - - [29/Aug/2023 09:34:21] "POST /transcript HTTP/1.1" 200 -
+ERROR: 2023-08-29 09:34:41,728 - Error occurred: /usr/bin/tesseract is not installed or it's not in your PATH. See README file for more information.
+INFO: 2023-08-29 09:34:41,732 - 127.0.0.1 - - [29/Aug/2023 09:34:41] "POST /transcript HTTP/1.1" 200 -
+ERROR: 2023-08-29 09:34:42,159 - Error occurred: /usr/bin/tesseract is not installed or it's not in your PATH. See README file for more information.
+INFO: 2023-08-29 09:34:42,169 - 127.0.0.1 - - [29/Aug/2023 09:34:42] "POST /transcript HTTP/1.1" 200 -
+ERROR: 2023-08-29 09:35:58,286 - Error occurred: /usr/bin/tesseract is not installed or it's not in your PATH. See README file for more information.
+INFO: 2023-08-29 09:35:58,293 - 127.0.0.1 - - [29/Aug/2023 09:35:58] "POST /transcript HTTP/1.1" 200 -
+ERROR: 2023-08-29 09:36:10,533 - Error occurred: /usr/bin/tesseract is not installed or it's not in your PATH. See README file for more information.
+INFO: 2023-08-29 09:36:10,536 - 127.0.0.1 - - [29/Aug/2023 09:36:10] "POST /transcript HTTP/1.1" 200 -
+ERROR: 2023-08-29 09:36:38,134 - Error occurred: /usr/bin/tesseract is not installed or it's not in your PATH. See README file for more information.
+INFO: 2023-08-29 09:36:38,137 - 127.0.0.1 - - [29/Aug/2023 09:36:38] "POST /transcript HTTP/1.1" 200 -
+INFO: 2023-08-29 09:37:21,545 -  * Detected change in 'D:\\Sharon\\Documents\\text_reader\\text-reader\\wsgi.py', reloading
+INFO: 2023-08-29 09:37:21,679 -  * Restarting with stat
+INFO: 2023-08-29 09:37:23,605 - Service Restarted!
+WARNING: 2023-08-29 09:37:23,619 -  * Debugger is active!
+INFO: 2023-08-29 09:37:23,627 -  * Debugger PIN: 913-208-999
+INFO: 2023-08-29 09:37:44,721 - Transcript generated: {'value': 434.0, 'label-text': '-434,00'}
+INFO: 2023-08-29 09:37:44,727 - 127.0.0.1 - - [29/Aug/2023 09:37:44] "POST /transcript HTTP/1.1" 200 -
+ERROR: 2023-08-29 09:40:39,354 - Failed Amount to Float: list index out of range
+INFO: 2023-08-29 09:40:39,573 - Transcript generated: {'value': None, 'label-text': '-434,00'}
+INFO: 2023-08-29 09:40:39,573 - 127.0.0.1 - - [29/Aug/2023 09:40:39] "POST /transcript HTTP/1.1" 200 -
+ERROR: 2023-08-29 09:41:04,041 - Failed Amount to Float: list index out of range
+INFO: 2023-08-29 09:41:04,274 - Transcript generated: {'value': None, 'label-text': 'Total'}
+INFO: 2023-08-29 09:41:04,279 - 127.0.0.1 - - [29/Aug/2023 09:41:04] "POST /transcript HTTP/1.1" 200 -
+INFO: 2023-08-29 09:42:47,707 - Transcript generated: {'value': 434.0, 'label-text': 'Total'}
+INFO: 2023-08-29 09:42:47,709 - 127.0.0.1 - - [29/Aug/2023 09:42:47] "POST /transcript HTTP/1.1" 200 -
+INFO: 2023-08-29 09:43:45,664 -  * Detected change in 'D:\\Sharon\\Documents\\text_reader\\text-reader\\scripts\\utils.py', reloading
+INFO: 2023-08-29 09:43:45,777 -  * Restarting with stat
+INFO: 2023-08-29 09:43:47,598 - Service Restarted!
+WARNING: 2023-08-29 09:43:47,613 -  * Debugger is active!
+INFO: 2023-08-29 09:43:47,621 -  * Debugger PIN: 913-208-999
+INFO: 2023-08-29 09:43:53,981 - Service Restarted!
+INFO: 2023-08-29 09:43:54,010 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:3034
+ * Running on http://192.168.1.5:3034
+INFO: 2023-08-29 09:43:54,010 - [33mPress CTRL+C to quit[0m
+INFO: 2023-08-29 09:43:54,014 -  * Restarting with stat
+INFO: 2023-08-29 09:43:55,888 - Service Restarted!
+WARNING: 2023-08-29 09:43:55,903 -  * Debugger is active!
+INFO: 2023-08-29 09:43:55,911 -  * Debugger PIN: 913-208-999
+INFO: 2023-08-29 09:43:59,885 - Transcript generated: {'value': -434.0, 'label-text': 'Total'}
+INFO: 2023-08-29 09:43:59,887 - 127.0.0.1 - - [29/Aug/2023 09:43:59] "POST /transcript HTTP/1.1" 200 -
+INFO: 2023-08-29 09:47:10,814 -  * Detected change in 'D:\\Sharon\\Documents\\text_reader\\text-reader\\scripts\\utils.py', reloading
+INFO: 2023-08-29 09:47:11,257 -  * Restarting with stat
+INFO: 2023-08-29 09:47:13,296 - Service Restarted!
+WARNING: 2023-08-29 09:47:13,317 -  * Debugger is active!
+INFO: 2023-08-29 09:47:13,326 -  * Debugger PIN: 913-208-999
+ERROR: 2023-08-29 09:47:19,320 - Error occurred: 'str' object has no attribute 'get'
+INFO: 2023-08-29 09:47:19,323 - 127.0.0.1 - - [29/Aug/2023 09:47:19] "POST /transcript HTTP/1.1" 200 -
+INFO: 2023-08-29 09:47:24,872 - Transcript generated: {'value': 434.0, 'label-text': 'Total'}
+INFO: 2023-08-29 09:47:24,882 - 127.0.0.1 - - [29/Aug/2023 09:47:24] "POST /transcript HTTP/1.1" 200 -
+INFO: 2023-08-29 09:47:59,872 -  * Detected change in 'D:\\Sharon\\Documents\\text_reader\\text-reader\\scripts\\utils.py', reloading
+INFO: 2023-08-29 09:47:59,989 -  * Restarting with stat
+INFO: 2023-08-29 09:48:01,662 - Service Restarted!
+WARNING: 2023-08-29 09:48:01,678 -  * Debugger is active!
+INFO: 2023-08-29 09:48:01,688 -  * Debugger PIN: 913-208-999
+INFO: 2023-08-29 09:48:07,560 - Transcript generated: {'value': -434.0, 'label-text': 'Total'}
+INFO: 2023-08-29 09:48:07,564 - 127.0.0.1 - - [29/Aug/2023 09:48:07] "POST /transcript HTTP/1.1" 200 -
+INFO: 2023-08-29 12:19:40,241 - Transcript generated: {'value': -434.0, 'label-text': 'Total'}
+INFO: 2023-08-29 12:19:40,241 - 127.0.0.1 - - [29/Aug/2023 12:19:40] "POST /transcript HTTP/1.1" 200 -
