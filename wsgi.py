@@ -12,7 +12,7 @@ from flask_cors import CORS
 from scripts.utils import *
 
 pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
-logger_path = r'/api/ocr/logs/text-reader.log'
+logger_path = r'./logs/text-reader.log'
 
 # pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 warnings.filterwarnings("ignore")
